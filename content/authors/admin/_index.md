@@ -40,37 +40,24 @@ profiles:
 #    url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MInf Informatics
+    institution: University of Edinburgh
+    date_start: 2020-09-20
+    date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Expected First Class Honours
+      
+      Thesis: _Efficient Pre-Training Using FractalNet Adaptation to Different Resource Availabilities in Speech_. Supervised by [Prof Hao Tang](https://example.com).
+      
+      Courses included:
+      - Machine Learning, Foundations of Data Science
+      - Automatic Speech Recognition, Speech Processing
+      - Fundamentals of Optimization, Fundamentals of Operational Research
+      - Honours Analysis, Honours Algebra
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -133,8 +120,8 @@ languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
+    percent: 100
+  - name: French
     percent: 25
 
 # Awards.
