@@ -54,7 +54,6 @@ education:
       - Honours Analysis, Honours Algebra
       
       Thesis: _Efficient Pre-Training Using FractalNet Adaptation to Different Resource Availabilities in Speech_. Supervised by [Prof Hao Tang](https://example.com).
-
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -85,39 +84,39 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-## Skills
-## Add your own SVG icons to `assets/media/icons/`
-#skills:
-#  - name: Technical Skills
-#    items:
-#      - name: Python
-#        description: ''
-#        percent: 80
-#        icon: devicon/python
-#      - name: RStudio
-#        description: ''
-#        percent: 100
-#        icon: devicon/rstudio
-#      - name: PyTorch
-#        description: ''
-#        percent: 40
-#        icon: devicon/pytorch
-#  - name: Hobbies
-#    color: '#eeac02'
-#    color_border: '#f0bf23'
-#    items:
-#      - name: Hiking
-#        description: ''
-#        percent: 60
-#        icon: person-simple-walk
-#      - name: Cats
-#        description: ''
-#        percent: 100
-#        icon: cat
-#      - name: Photography
-#        description: ''
-#        percent: 80
-#        icon: camera
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: devicon/python
+      - name: RStudio
+        description: ''
+        percent: 100
+        icon: devicon/rstudio
+      - name: PyTorch
+        description: ''
+        percent: 40
+        icon: devicon/pytorch
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
 languages:
   - name: English
@@ -132,7 +131,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Outstanding Undergraduate Project
+  - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
     awarder: Coursera
