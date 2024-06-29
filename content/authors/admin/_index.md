@@ -70,9 +70,8 @@ work:
     date_end: 2023-09-08
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Engineered a dynamic code analysis tool for optimizing Prime Video’s service configurations, enhancing system efficiency and reliability
+      - Collaborated cross-functionally to integrate feedback, refining both project scope and technical specifications
   - position: Back-End Software Engineering Intern
     company_name: Thought Machine
     company_url: 'https://www.thoughtmachine.net/'
@@ -81,9 +80,7 @@ work:
     date_end: 2022-09-09
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Designed a Kubernetes job for detecting duplicate messages across Kafka topics, significantly improving data processing accuracy and efficiency
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
