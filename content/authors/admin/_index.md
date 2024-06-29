@@ -48,10 +48,11 @@ education:
       Expected First Class Honours
 
       Courses included:
-      - Machine Learning, Foundations of Data Science
-      - Automatic Speech Recognition, Speech Processing
-      - Fundamentals of Optimization, Fundamentals of Operational Research
-      - Honours Analysis, Honours Algebra
+      - ML: Machine Learning, Foundations of Data Science
+      - Speech: Automatic Speech Recognition, Speech Processing
+      - NLP: Foundations of Natural Language Processing
+      - Optimization: Fundamentals of Optimization, Fundamentals of Operational Research, Integer and Combinatorial Optimization
+      - Pure Maths: Honours Analysis, Honours Algebra
       
       Thesis: _Efficient Pre-Training Using FractalNet Adaptation to Different Resource Availabilities in Speech_. Supervised by Prof Hao Tang.
     button:
