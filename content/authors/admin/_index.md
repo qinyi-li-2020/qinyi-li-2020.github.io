@@ -3,7 +3,7 @@
 title: Qinyi Li
 
 ## Name pronunciation (optional)
-#name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Qinyi
@@ -55,9 +55,9 @@ education:
       - Pure Maths: Honours Analysis, Honours Algebra
       
       Thesis: _Efficient Pre-Training Using FractalNet Adaptation to Different Resource Availabilities in Speech_. Supervised by Prof Hao Tang.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+#    button:
+#      text: 'Read Thesis'
+#      url: 'https://example.com'
     
     
 
