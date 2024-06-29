@@ -21,8 +21,8 @@ role: Masters of Informatics Student @ University of Edinburgh
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Edinburgh
-#    url: https://www.example.com/
+  - name: The University of Edinburgh
+    url: https://www.ed.ac.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
