@@ -53,7 +53,7 @@ education:
       - Fundamentals of Optimization, Fundamentals of Operational Research
       - Honours Analysis, Honours Algebra
       
-      Thesis: _Efficient Pre-Training Using FractalNet Adaptation to Different Resource Availabilities in Speech_. Supervised by [Prof Hao Tang](https://example.com).
+      Thesis: _Efficient Pre-Training Using FractalNet Adaptation to Different Resource Availabilities in Speech_. Supervised by Prof Hao Tang.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
