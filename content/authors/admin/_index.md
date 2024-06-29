@@ -61,23 +61,23 @@ education:
     
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Software Development Engineer Intern
+    company_name: Amazon UK
+    company_url: 'https://www.aboutamazon.co.uk/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-06-12
+    date_end: 2023-09-08
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+  - position: Back-End Software Engineering Intern
+    company_name: Thought Machine
+    company_url: 'https://www.thoughtmachine.net/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-07-11
+    date_end: 2022-09-09
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -131,10 +131,10 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Outstanding Undergraduate Project Award
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+    date: '2024-06-17'
+    awarder: The University of Edinburgh
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
