@@ -25,13 +25,6 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: buttons
-    content:
-      buttons:
-        - title: Resume 1
-          url: https://example.com
-        - title: Resume 2
-          url: https://example.com
   - block: experience
     content:
       username: admin
