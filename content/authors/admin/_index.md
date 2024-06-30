@@ -46,6 +46,8 @@ education:
     date_end: ''
     summary: |
       Expected First Class Honours
+      
+      2020-2024 BSc Computer Science and Mathematics, 2024-onwards transferred to MInf Informatics
 
       Courses included:
       - ML: Machine Learning, Foundations of Data Science
