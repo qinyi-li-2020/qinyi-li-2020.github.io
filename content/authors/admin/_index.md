@@ -52,11 +52,11 @@ education:
       _BSc Computer Science and Mathematics_ (2020 – 2024), transferred to _MInf Informatics_ (2024 – Present)
 
       **Courses** included:
-      - <u>ML</u>: Machine Learning, Foundations of Data Science
-      - <u>Speech</u>: Automatic Speech Recognition, Speech Processing
-      - <u>NLP</u>: Foundations of Natural Language Processing
-      - <u>Optimization</u>: Fundamentals of Optimization, Fundamentals of Operational Research, Integer and Combinatorial Optimization
-      - <u>Pure Maths</u>: Honours Analysis, Honours Algebra
+      - <u>_ML_</u>: Machine Learning, Foundations of Data Science
+      - <u>_Speech_</u>: Automatic Speech Recognition, Speech Processing
+      - <u>_NLP_</u>: Foundations of Natural Language Processing
+      - <u>_Optimization_</u>: Fundamentals of Optimization, Fundamentals of Operational Research, Integer and Combinatorial Optimization
+      - <u>_Pure Maths_</u>: Honours Analysis, Honours Algebra
       
       **Thesis:** _Efficient Pre-Training Using FractalNet Adaptation to Different Resource Availabilities in Speech_. Supervised by Prof Hao Tang. Achieved a mark of 80/100 and awarded Outstanding Undergraduate Project.
 #    button:
