@@ -76,6 +76,17 @@ work:
       Responsibilities include:
       - Engineered a dynamic code analysis tool for optimizing Prime Video’s service configurations, enhancing system efficiency and reliability
       - Collaborated cross-functionally to integrate feedback, refining both project scope and technical specifications
+  - position: Driverless Localisation and Mapping Team Member
+    company_name: Edinburgh University Formula Student
+    company_url: 'https://www.eufs.co/'
+    company_logo: ''
+    date_start: 2022-10-01
+    date_end: 2023-09-01
+    summary: |2-
+      Responsibilities include:
+      - Contributed towards the team’s top-tier performance at the international Formula Student Competition in July 2023 - winning in the FS-AI Class that evaluated autonomous vehicle driving.
+      - Developed algorithms for autonomous vehicle navigation and mapping
+      - Maintained existing functionalities and enhanced team capabilities by implementing robust testing and documentation for code.
   - position: Back-End Software Engineering Intern
     company_name: Thought Machine
     company_url: 'https://www.thoughtmachine.net/'
