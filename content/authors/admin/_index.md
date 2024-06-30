@@ -34,8 +34,10 @@ profiles:
 #    url: https://twitter.com/GetResearchDev
   - icon: brands/github
     url: https://github.com/qinyi-li-2020/
+    label: My GitHub Profile
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/qinyi-li-b9983a1b2/
+    label: My LinkedIn Profile
 #  - icon: brands/instagram
 #    url: https://www.instagram.com/
 
