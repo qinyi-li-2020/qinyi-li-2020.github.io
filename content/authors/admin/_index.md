@@ -52,7 +52,7 @@ education:
       _BSc Computer Science and Mathematics_ (2020 – 2024), transferred to _MInf Informatics_ (2024 – Present)
 
       Courses included:
-      - ML: Machine Learning, Foundations of Data Science
+      - <u>ML</u>: Machine Learning, Foundations of Data Science
       - Speech: Automatic Speech Recognition, Speech Processing
       - NLP: Foundations of Natural Language Processing
       - Optimization: Fundamentals of Optimization, Fundamentals of Operational Research, Integer and Combinatorial Optimization
