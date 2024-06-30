@@ -47,18 +47,18 @@ education:
     date_start: 2020-09-20
     date_end: ''
     summary: |
-      Expected First Class Honours
+      Expected **First Class Honours**
       
       _BSc Computer Science and Mathematics_ (2020 – 2024), transferred to _MInf Informatics_ (2024 – Present)
 
-      Courses included:
+      **Courses** included:
       - <u>ML</u>: Machine Learning, Foundations of Data Science
-      - Speech: Automatic Speech Recognition, Speech Processing
-      - NLP: Foundations of Natural Language Processing
-      - Optimization: Fundamentals of Optimization, Fundamentals of Operational Research, Integer and Combinatorial Optimization
-      - Pure Maths: Honours Analysis, Honours Algebra
+      - <u>Speech</u>: Automatic Speech Recognition, Speech Processing
+      - <u>NLP</u>: Foundations of Natural Language Processing
+      - <u>Optimization</u>: Fundamentals of Optimization, Fundamentals of Operational Research, Integer and Combinatorial Optimization
+      - <u>Pure Maths</u>: Honours Analysis, Honours Algebra
       
-      Thesis: _Efficient Pre-Training Using FractalNet Adaptation to Different Resource Availabilities in Speech_. Supervised by Prof Hao Tang.
+      **Thesis:** _Efficient Pre-Training Using FractalNet Adaptation to Different Resource Availabilities in Speech_. Supervised by Prof Hao Tang. Achieved a mark of 80/100 and awarded Outstanding Undergraduate Project.
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
