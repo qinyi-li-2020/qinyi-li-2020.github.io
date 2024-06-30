@@ -15,20 +15,9 @@ sections:
     content:
       username: admin
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download Résumé
-        url: uploads/resume.pdf
-    design:
-      banner:
-        # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: banner.jpg
-      biography:
-        # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
-  - block: cta-button-list
-    content:
-      # Need a custom icon?
-      # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
+#      button:
+#        text: Download Résumé
+#        url: uploads/resume.pdf
       buttons:
         - text: Read my latest paper on LLMs
           icon: academicons/arxiv
@@ -39,6 +28,13 @@ sections:
         - text: Connect with me on LinkedIn
           icon: brands/linkedin
           url: https://linkedin.com
+    design:
+      banner:
+        # Upload your cover image to the `assets/media/` folder and reference it here
+        filename: banner.jpg
+      biography:
+        # Customize the style of your biography text
+        style: 'text-align: justify; font-size: 0.8em;'
   - block: experience
     content:
       username: admin
