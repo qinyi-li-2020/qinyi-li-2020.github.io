@@ -67,9 +67,9 @@ education:
 
 work:
   - position: Software Development Engineer Intern
-    company_name: Amazon UK
+    company_name: <a href="https://www.aboutamazon.co.uk/">Amazon UK</a>
     company_url: 'https://www.aboutamazon.co.uk/'
-    company_logo: 'custom/amazon'
+    company_logo: ''
     date_start: 2023-06-12
     date_end: 2023-09-08
     summary: |2-
