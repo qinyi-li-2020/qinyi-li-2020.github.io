@@ -56,7 +56,7 @@ education:
       - <u>_Speech_</u>: Automatic Speech Recognition, Speech Processing
       - <u>_NLP_</u>: Foundations of Natural Language Processing
       - <u>_Optimization_</u>: Fundamentals of Optimization, Fundamentals of Operational Research, Integer and Combinatorial Optimization
-      - <u>_Pure Maths_</u>: Honours Analysis, Honours Algebra, Fundamentals of Pure Mathematics
+      - <u>_Pure Maths_</u>: Honours Analysis, Honours Algebra, Fundamentals of Pure Mathematics, Proofs and Problem Solving
       - <u>_Applied Maths_</u>: Several Variable Calculus and Differential Equations, Calculus and its Applications, Introduction to Linear Algebra, Probability
       
       **Thesis:** _Efficient Pre-Training Using FractalNet Adaptation to Different Resource Availabilities in Speech_. Supervised by Prof Hao Tang. Achieved a mark of 80/100 and awarded Outstanding Undergraduate Project.
@@ -172,4 +172,6 @@ awards:
 #      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently a 4th-year Master of Informatics student studying at the University of Edinburgh. Aspiring to contribute to research in speech and hope to advance my knowledge and broaden my perspectives on cutting-edge AI research.
+I am currently a 4th-year Master of Informatics student studying at the University of Edinburgh. 
+Experienced in deep learning research in the speech domain through my fourth-year undergraduate dissertation focused on addressing the complexities and resource constraints in training and executing speech processing systems. 
+Aspiring to contribute to research in speech and hope to advance my knowledge and broaden my perspectives on cutting-edge AI research.
