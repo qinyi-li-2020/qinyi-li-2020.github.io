@@ -85,7 +85,7 @@ work:
     date_end: 2023-09-01
     summary: |2-
       
-      - Contributed towards the team’s top-tier performance at the international Formula Student Competition in July 2023 - **winning in the FS-AI Class** that evaluated autonomous vehicle driving
+      - Contributed towards the team’s top-tier performance at the international Formula Student Competition in July 2023 - **_winning in the FS-AI Class_** that evaluated autonomous vehicle driving
       - Developed algorithms for autonomous vehicle navigation and mapping
       - Maintained existing functionalities and enhanced team capabilities by implementing robust testing and documentation for code
   - position: Back-End Software Engineering Intern
