@@ -59,7 +59,7 @@ education:
       - <u>_Pure Maths_</u>: Honours Analysis, Honours Algebra, Fundamentals of Pure Mathematics, Proofs and Problem Solving
       - <u>_Applied Maths_</u>: Several Variable Calculus and Differential Equations, Calculus and its Applications, Introduction to Linear Algebra, Probability
       
-      **Thesis:** _Efficient Pre-Training Using FractalNet Adaptation to Different Resource Availabilities in Speech_. Supervised by Prof Hao Tang. Achieved a mark of 80/100 and awarded Outstanding Undergraduate Project.
+      **Thesis:** _Efficient Pre-Training Using FractalNet for Adaptation to Different Resource Availabilities in Speech_. Supervised by Prof Hao Tang. Achieved a mark of 80/100 and awarded Outstanding Undergraduate Project.
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
